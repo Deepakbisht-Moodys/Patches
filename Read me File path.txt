@@ -1,7 +1,2 @@
 https://github.com/Deepakbisht-Moodys/Patches/raw/main/Filezilla/FileZilla_3.66.1_win64-setup.exe?download=
-https://github.com/Deepakbisht-Moodys/Patches/raw/main/JDK%20both%2032%20&%2064%20bit%20MSI%20&%20EXE/jdk-8u391-windows-i586.exe?download=
-https://github.com/Deepakbisht-Moodys/Patches/raw/main/JDK%20both%2032%20&%2064%20bit%20MSI%20&%20EXE/jdk-8u391-windows-x64.exe?download=
-https://github.com/Deepakbisht-Moodys/Patches/raw/main/JRE%20both%2032%20and%2064%20bit%20MSI%20&%20EXE/jre-8u391-windows-i586.exe?download=
-https://github.com/Deepakbisht-Moodys/Patches/raw/main/JRE%20both%2032%20and%2064%20bit%20MSI%20&%20EXE/jre-8u391-windows-i586.msi?download=
-https://github.com/Deepakbisht-Moodys/Patches/raw/main/JRE%20both%2032%20and%2064%20bit%20MSI%20&%20EXE/jre-8u391-windows-x64.exe?download=
-https://github.com/Deepakbisht-Moodys/Patches/raw/main/JRE%20both%2032%20and%2064%20bit%20MSI%20&%20EXE/jre-8u391-windows-x64.msi?download=
+https://github.com/Deepakbisht-Moodys/Patches/raw/main/jdk-8u401-windows-i586.exe?download=

@@ -1,2 +1,5 @@
 https://github.com/Deepakbisht-Moodys/Patches/raw/main/Filezilla/FileZilla_3.66.1_win64-setup.exe?download=
 https://github.com/Deepakbisht-Moodys/Patches/raw/main/jdk-8u401-windows-i586.exe?download=
+https://github.com/Deepakbisht-Moodys/Patches/raw/main/jdk-8u401-windows-x64.exe?download=
+https://github.com/Deepakbisht-Moodys/Patches/raw/main/jre-8u401-windows-i586.exe?download=
+https://github.com/Deepakbisht-Moodys/Patches/raw/main/jre-8u401-windows-x64.exe?download=
